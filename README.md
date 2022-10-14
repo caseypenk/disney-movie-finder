@@ -6,5 +6,13 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 Disney Movie Finder allows users to quickly find their next favorite Disney movie using keyword search. Users can specify the title, year, or other information about the movie and get a result instantly.
+
+I used the following tools:
+* React for the front-end components
+* React hooks to hold state
+* HTML for page layout
+* CSS for styling
+* Node for spinning up a server
+* Express to handle routing
+* MySQL to store data about the movies
